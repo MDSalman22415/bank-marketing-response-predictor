@@ -1,0 +1,1 @@
+An end-to-end deep learning project using Artificial Neural Networks (ANN) to predict customer responses to bank marketing campaigns, featuring exploratory data analysis, feature engineering, hyperparameter tuning, model evaluation, and an interactive Streamlit web application.
